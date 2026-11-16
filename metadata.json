@@ -1,0 +1,6 @@
+{
+  "name": "PHYSICS FORWARD",
+  "description": "Complete educational technology ecosystem for Bengali-medium Physics students with courses, live & recorded classes, exam system, and secure admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
